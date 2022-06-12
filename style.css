@@ -1,0 +1,26 @@
+span{
+    color: red;
+}
+
+h4{
+    color: blue;
+}
+
+body{
+    background-image: linear-gradient( rgb(96, 96, 255),rgb(249, 87, 87),rgb(245, 245, 94),rgb(55, 245, 55),rgb(0, 179, 255),white);
+    font-family: 'Courgette';
+    font-size: 20px;
+    text-align: center;
+    font-weight: 100%;
+    color: white;
+    letter-spacing: 3px;
+}
+
+h1{
+    color: red;
+}
+
+img{
+    border: 2px solid white;
+    
+}
